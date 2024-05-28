@@ -1,2 +1,2 @@
-# themepark-c-
+# themepark-online-ticket-system
 First year project 
